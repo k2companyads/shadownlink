@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+</head>
+
+## ShadowLink Privacy Policy
+
+Last Updated: June 2026
+
+## Introduction
+
+ShadowLink is a privacy-focused communication platform designed to provide temporary and secure conversations. This Privacy Policy explains what information is collected, how it is used, and how users maintain control over their data.
+
+## Information We Collect
+
+ShadowLink is designed to minimize data collection.
+
+The application may process:
+
+* Temporary room identifiers
+* Encrypted message payloads
+* Encrypted file uploads
+* Anonymous technical diagnostics required for service operation
+
+ShadowLink does not intentionally collect:
+
+* Message content in plain text
+* Contact lists
+* SMS content
+* Photos outside files explicitly shared by users
+* Device location
+* Advertising identifiers
+
+## End-to-End Encryption
+
+Messages are encrypted on the user's device before transmission.
+
+Encryption keys are derived locally and are not transmitted to the server.
+
+The server stores encrypted content only and cannot read message contents.
+
+## Temporary Conversations
+
+Users may configure conversations to self-destruct after a defined period.
+
+Messages marked for deletion are automatically removed according to the selected expiration policy.
+
+## Room Access
+
+Access to private rooms requires explicit authorization from the room creator.
+
+Invitation codes alone do not guarantee access.
+
+## SMS Invitations
+
+ShadowLink may use the device's SMS application to send invitation codes.
+
+SMS messages are transmitted through the user's mobile carrier and are not controlled by ShadowLink.
+
+Users should be aware that SMS is not an encrypted communication channel.
+
+## Files and Voice Messages
+
+Shared files and voice recordings are encrypted before upload whenever encryption features are enabled.
+
+## Security Features
+
+ShadowLink includes privacy-enhancing features such as:
+
+* Session expiration
+* Room destruction
+* Privacy overlays
+* WebRTC leak monitoring
+* Optional Tor-compatible usage guidance
+
+These features improve privacy but cannot guarantee complete protection against all threats.
+
+## Donations
+
+ShadowLink may provide optional donation links through third-party payment providers.
+
+Payment processing is performed entirely by the payment provider.
+
+ShadowLink does not store payment card information or banking credentials.
+
+## Data Retention
+
+Encrypted data is retained only for the period necessary to provide the service.
+
+Destroyed rooms and expired content are permanently removed according to system policies.
+
+## Third-Party Services
+
+ShadowLink may rely on third-party infrastructure providers for hosting, notifications, file storage, and payment processing.
+
+Each provider operates under its own privacy policies.
+
+## Children's Privacy
+
+ShadowLink is not intended for children under 13 years of age.
+
+## Disclaimer
+
+While ShadowLink implements multiple privacy and security measures, no software can guarantee absolute security.
+
+Users remain responsible for protecting their devices, passwords, room codes, and personal information.
+
+## Contact
+
+For questions regarding this Privacy Policy:
+
+Email: [[contato@shadowlink.app](mailto:contato@shadowlink.app)](mailto:contato@shadowlink.app)
+
+## Changes
+
+This Privacy Policy may be updated periodically.
+
+Continued use of ShadowLink after updates constitutes acceptance of the revised policy.
+<body>
+<h1>ShadowLink Privacy Policy</h1>
+
+<p>Last updated: June 2026</p>
+
+<h2>Introduction</h2>
+<p>ShadowLink is a privacy-focused communication platform...</p>
+
+</body>
+</html>
